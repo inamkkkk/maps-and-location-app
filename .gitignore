@@ -1,0 +1,22 @@
+### Dart/Flutter ###
+.dart_tool/
+.idea/
+.metadata
+*.iml
+/android/app/build/
+/ios/Pods/
+/ios/.symlinks/
+/ios/Frameworks/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/macos/Pods/
+/macos/.symlinks/
+/macos/Frameworks/
+/macos/Runner.xcodeproj/project.xcworkspace/
+/build/
+/lib/generated/
+packages/
+.packages
+
+### General ###
+*.log
+*.DS_Store
